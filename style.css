@@ -78,3 +78,20 @@ hr {
 .footspacer {
     height: 100px;
 }
+.change {
+    position: fixed;
+    background-color: #f7fffb;
+    font-family: sans-serif;
+    font-size: 20px;
+    border: 3px gray solid;
+    font-weight: 1000;
+    top: 1%;
+    left: 1%;
+}
+
+.english {
+    display: none;
+}
+#changelanguage2 {
+    display: none;
+}
